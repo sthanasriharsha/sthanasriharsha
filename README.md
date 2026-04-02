@@ -19,7 +19,7 @@
 
 > *"My passion is bridging research and real-world AI applications."*
 
-Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate specialising in **AI & Data Science**, currently working as an **AI/ML Intern at C-DAC Thiruvananthapuram**, where I build deep learning models for Indian Sign Language recognition.
+Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate specialising in **AI & Data Science**, currently working as an **AI/ML Intern at C-DAC Thiruvananthapuram**, where I AIML Solutions and build deep learning models for real world Applications.
 
 | 🎓 Education | B.Tech CS (AI & Data Science) — GNIT, Hyderabad · CGPA: **7.38** |
 |---|---|
