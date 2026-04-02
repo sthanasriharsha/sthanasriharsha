@@ -35,7 +35,7 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 
 - 🤟 **Indian Sign Language (ISL) Recognition** — Deep learning pipeline for accessibility AI at C-DAC
 - 📐 **Pose Normalization** — Standardizing human keypoints extracted from video for ISL datasets
-- 🧾 **AI Document Assistant** — Multi-turn Q&A and summarization powered by Gemini & GPT-4
+
 
 ---
 
@@ -112,7 +112,7 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 | Role | Organisation | Period | Highlights |
 |------|-------------|--------|------------|
 | 🤖 AI/ML Intern | **C-DAC Thiruvananthapuram** | Present | Deep learning for Indian Sign Language · Accessibility AI research |
-| 🎓 AI-ML Intern | **Google for Developers × AICTE** | Oct – Dec 2024 | ML fundamentals · Model evaluation · Production deployment |
+
 
 ---
 
