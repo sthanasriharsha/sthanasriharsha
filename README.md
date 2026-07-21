@@ -61,7 +61,9 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
 
 **Libraries & Frameworks**
 
@@ -79,6 +81,9 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -89,10 +94,10 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
 | 🌃 | **Low Light Image Enhancement** | Enhances nighttime roadside images for intelligent transportation using inverse tone mapping | Python · OpenCV · Flask | [GitHub](https://github.com/sthanasriharsha/LOW_LIGHT_IMAGE_ENHANCEMENT) · [Demo](https://low-light-image-enhancement-m2yb.onrender.com/) |
-| 🤖 | **AI Document Assistant** | Upload PDFs/DOCX and get contextual Q&A + summaries via Gemini & GPT-4 | Python · Streamlit · NLP | [GitHub](https://github.com/sthanasriharsha/ai-doc-assistant) · [Demo](https://ai-doc-assistant-hyx46c3ivdxb5zzgs3ztmt.streamlit.app/) |
+| 🤖 | **AI Document Assistant** | Web-based AI assistant using the Google Gemini API for document Q&A and automated summarisation | Python · Streamlit · Gemini API | [GitHub](https://github.com/sthanasriharsha/ai-doc-assistant) · [Demo](https://ai-doc-assistant-hyx46c3ivdxb5zzgs3ztmt.streamlit.app/) |
 | 📐 | **Pose Normalization Pipeline** | Standardizes human keypoints from video using DWPose for Sign Language AI | PyTorch · Computer Vision | [GitHub](https://github.com/sthanasriharsha/pose-normalization) · [Demo](https://huggingface.co/spaces/Harsha909/pose-normalization-v3) |
 | 🌐 | **Word Sense Disambiguation** | NLP system that detects ambiguous words and scores their contextual meaning using ConSeC | Python · SpaCy · WordNet | [GitHub](https://github.com/sthanasriharsha/wsd) · [Demo](https://huggingface.co/spaces/Harsha909/wsd-scorer) |
-| 📄 | **Paper Digest Agent** | An AI agent that fetches, reads, and summarizes research papers into concise digests, streamlining literature review | Python · LangChain · LangGraph · Gemini/GPT · Streamlit | [GitHub](https://github.com/sthanasriharsha/paper-digest-agent) · [Demo](https://paper-digest-agent-cpcdpwkwvcvz4nb7u6nmz5.streamlit.app/) |
+| 📄 | **Paper Digest Agent** | AI web app that summarizes research papers and suggests follow-up research ideas, with a self-checking pipeline that verifies summary accuracy and auto-retries | Python · LangChain · LangGraph · Pydantic AI · Google Gemini API · Streamlit | [GitHub](https://github.com/sthanasriharsha/paper-digest-agent) · [Demo](https://paper-digest-agent-cpcdpwkwvcvz4nb7u6nmz5.streamlit.app/) |
 
 ---
 
@@ -116,7 +121,8 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 
 | Role | Organisation | Period | Highlights |
 |------|-------------|--------|------------|
-| 🤖 AI/ML Intern | **C-DAC Thiruvananthapuram** | Present | Deep learning for Indian Sign Language · Accessibility AI research |
+| 🤖 AI/ML Intern | **C-DAC Thiruvananthapuram** | Feb 2026 – Present | Computer Vision & NLP pipelines with TensorFlow & OpenCV · Optimised ML inference for real-world deployment · Indian Sign Language accessibility research |
+
 
 
 ---
@@ -129,6 +135,8 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 | 🌐 | Web Development | IBM SkillsBuild |
 | 📊 | Introduction to Data Science | Cisco Networking Academy |
 | 🤖 | AI-ML Training Program | Google for Developers × AICTE |
+| ☁️ | AWS AI Practitioner Challenge | Udacity & AWS |
+| 🧪 | Machine Learning Professional Certification | Altair |
 
 ---
 
