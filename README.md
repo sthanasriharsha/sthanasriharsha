@@ -35,6 +35,7 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 
 - 🤟 **Indian Sign Language (ISL) Recognition** — Deep learning pipeline for accessibility AI at C-DAC
 - 📐 **Pose Normalization** — Standardizing human keypoints extracted from video for ISL datasets
+- 📄 **Paper Digest Agent** — LangChain/LangGraph-powered agent that fetches, summarizes, and digests research papers using LLMs
 
 
 ---
@@ -58,6 +59,9 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Libraries & Frameworks**
 
@@ -88,6 +92,7 @@ Hi, I'm **Gundumalla Sthana Sriharsha** — a Computer Science graduate speciali
 | 🤖 | **AI Document Assistant** | Upload PDFs/DOCX and get contextual Q&A + summaries via Gemini & GPT-4 | Python · Streamlit · NLP | [GitHub](https://github.com/sthanasriharsha/ai-doc-assistant) · [Demo](https://ai-doc-assistant-hyx46c3ivdxb5zzgs3ztmt.streamlit.app/) |
 | 📐 | **Pose Normalization Pipeline** | Standardizes human keypoints from video using DWPose for Sign Language AI | PyTorch · Computer Vision | [GitHub](https://github.com/sthanasriharsha/pose-normalization) · [Demo](https://huggingface.co/spaces/Harsha909/pose-normalization-v3) |
 | 🌐 | **Word Sense Disambiguation** | NLP system that detects ambiguous words and scores their contextual meaning using ConSeC | Python · SpaCy · WordNet | [GitHub](https://github.com/sthanasriharsha/wsd) · [Demo](https://huggingface.co/spaces/Harsha909/wsd-scorer) |
+| 📄 | **Paper Digest Agent** | An AI agent that fetches, reads, and summarizes research papers into concise digests, streamlining literature review | Python · LangChain · LangGraph · Gemini/GPT · Streamlit | [GitHub](https://github.com/sthanasriharsha/paper-digest-agent) · [Demo](https://paper-digest-agent-cpcdpwkwvcvz4nb7u6nmz5.streamlit.app/) |
 
 ---
 
